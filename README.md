@@ -24,5 +24,5 @@ BLab大熊实验室所有开源项目均使用GPL开源协议，禁止商用。�
 
 
 
-![front](https://raw.githubusercontent.com/BearLaboratory/SinglePowerBank/master/img/front.png)
+![Image](https://raw.githubusercontent.com/BearLaboratory/SinglePowerBank/master/img/front.png)
 
